@@ -2,7 +2,6 @@
 A dummy portfolio website made with Bootstrap, Font Awesome, and Isotope.
 http://matinsasan.github.io/Bootstrap-portfolio
 
-
 Credits:
 portraits from https://randomuser.me
 body-of-water-aerial-photography-392586 by Adrianna Calvo from Pexels

@@ -1,6 +1,5 @@
 # Bootstrap-portfolio
 A dummy portfolio website made with Bootstrap, Font Awesome, and Isotope.
-http://matinsasan.github.io/Bootstrap-portfolio
 
 Credits:
 portraits from https://randomuser.me

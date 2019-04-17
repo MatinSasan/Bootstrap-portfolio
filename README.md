@@ -1,5 +1,6 @@
 # Bootstrap-portfolio
-A dummy portfolio website made with Bootstrap, Font Awesome, and Isotope.  Shared only to prove competency. Not to be used independently by individuals.
+A dummy portfolio website made with Bootstrap, Font Awesome, and Isotope.  
+Shared only to prove competency. Not to be used independently by individuals.
 
 
 Credits:
